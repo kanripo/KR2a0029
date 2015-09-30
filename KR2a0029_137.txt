@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 舊五代史
-#+DATE: 2015-09-23 09:42:02
-#+PROPERTY: JUAN 137
+#+DATE: 2015-08-24 22:21:26.649611
+#+PROPERTY: ID KR2a0029
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六十八
 <pb:KR2a0029_WYG_137-1a>¶
 欽定四庫全書¶
 　舊五代史卷六十八¶
@@ -182,4 +184,3 @@
 表聳朝廷之羽儀以之垂名夫何不韙¶
 　¶
 　舊五代史巻六十八¶
-

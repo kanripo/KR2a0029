@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 舊五代史
-#+DATE: 2015-09-23 09:42:02
-#+PROPERTY: JUAN 294
+#+DATE: 2015-08-24 22:21:30.345977
+#+PROPERTY: ID KR2a0029
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百四十八攷證
 <pb:KR2a0029_WYG_294-1a>¶
 　舊五代史巻一百四十八攷證¶
 志十選舉志疎于帖經　帖經原本作帖括今據五代¶
@@ -20,4 +22,3 @@
 　¶
 　¶
 　舊五代史巻一百四十八攷證¶
-

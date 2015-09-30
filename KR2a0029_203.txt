@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 舊五代史
-#+DATE: 2015-09-23 09:42:02
-#+PROPERTY: JUAN 203
+#+DATE: 2015-08-24 22:21:28.008419
+#+PROPERTY: ID KR2a0029
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百一考證
 <pb:KR2a0029_WYG_203-1a>¶
 　舊五代史巻一百一考證¶
 漢𨼆帝紀上三月二十四日行次永興思綰等作亂突¶
@@ -20,4 +22,3 @@
 　¶
 　¶
 　舊五代史巻一百一考證¶
-

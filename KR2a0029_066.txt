@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 舊五代史
-#+DATE: 2015-09-23 09:42:02
-#+PROPERTY: JUAN 66
+#+DATE: 2015-08-24 22:21:25.411044
+#+PROPERTY: ID KR2a0029
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十二攷證
 <pb:KR2a0029_WYG_066-1a>¶
 　舊五代史巻三十二攷證¶
 唐莊宗紀六内園使　案歐陽史作内園裁接使攷五¶
@@ -38,4 +40,3 @@
 　¶
 　¶
 　舊五代史巻三十二考證¶
-

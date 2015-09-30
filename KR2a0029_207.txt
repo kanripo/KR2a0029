@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 舊五代史
-#+DATE: 2015-09-23 09:42:02
-#+PROPERTY: JUAN 207
+#+DATE: 2015-08-24 22:21:28.103525
+#+PROPERTY: ID KR2a0029
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百三考證
 <pb:KR2a0029_WYG_207-1a>¶
 　舊五代史巻一百三考證¶
 漢隠帝紀下鳯翔行營都部署趙暉奏前月二十四日¶
@@ -38,4 +40,3 @@
 　¶
 　¶
 　舊五代史卷一百三攷證¶
-

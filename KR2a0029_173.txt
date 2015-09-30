@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 舊五代史
-#+DATE: 2015-09-23 09:42:02
-#+PROPERTY: JUAN 173
+#+DATE: 2015-08-24 22:21:27.377728
+#+PROPERTY: ID KR2a0029
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八十六攷證
 <pb:KR2a0029_WYG_173-1a>¶
 　舊五代史巻八十六攷證¶
 晉后妃列傳一高祖皇后李氏　案五代會要李后在¶
@@ -20,4 +22,3 @@
 　¶
 　¶
 　舊五代史卷八十六攷證¶
-

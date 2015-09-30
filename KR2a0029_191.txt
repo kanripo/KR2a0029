@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 舊五代史
-#+DATE: 2015-09-23 09:42:02
-#+PROPERTY: JUAN 191
+#+DATE: 2015-08-24 22:21:27.745280
+#+PROPERTY: ID KR2a0029
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九十五攷證
 <pb:KR2a0029_WYG_191-1a>¶
 　舊五代史巻九十五攷證¶
 晉列傳十皇甫遇𫝊常山人也　案歐陽史作常山真¶
@@ -38,4 +40,3 @@
 　¶
 　¶
 　舊五代史巻九十五攷證¶
-

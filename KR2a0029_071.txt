@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 舊五代史
-#+DATE: 2015-09-23 09:42:02
-#+PROPERTY: JUAN 71
+#+DATE: 2015-08-24 22:21:25.496333
+#+PROPERTY: ID KR2a0029
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十五
 <pb:KR2a0029_WYG_071-1a>¶
 欽定四庫全書¶
 　舊五代史巻三十五¶
@@ -272,4 +274,3 @@
 河南府及請道準此施行從之是日宋州節度使元行¶
 欽伏誅壬寅以樞密副使孔循為樞密使¶
 　舊五代史巻三十五¶
-

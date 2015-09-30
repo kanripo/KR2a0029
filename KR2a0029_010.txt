@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 舊五代史
-#+DATE: 2015-09-23 09:42:02
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 22:21:24.438354
+#+PROPERTY: ID KR2a0029
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四攷證
 <pb:KR2a0029_WYG_010-1a>¶
 　舊五代史巻四攷證¶
 梁太祖紀四二月　案通鑑二月癸亥酖殺濟陰王于¶
@@ -38,4 +40,3 @@
 其興善門仍令長官闗鎖　興善原本作章善今據上¶
 　文及五代㑹要改正¶
 　舊五代史巻四考證¶
-

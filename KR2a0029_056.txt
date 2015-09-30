@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 舊五代史
-#+DATE: 2015-09-23 09:42:02
-#+PROPERTY: JUAN 56
+#+DATE: 2015-08-24 22:21:25.210667
+#+PROPERTY: ID KR2a0029
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十七攷證
 <pb:KR2a0029_WYG_056-1a>¶
 　舊五代史巻二十七攷證¶
 唐莊宗紀一及武皇之討王行瑜帝時年十一　案歐陽¶
@@ -56,4 +58,3 @@
 　¶
 　¶
 　舊五代史巻二十七攷證¶
-

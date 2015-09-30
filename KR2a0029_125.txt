@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 舊五代史
-#+DATE: 2015-09-23 09:42:02
-#+PROPERTY: JUAN 125
+#+DATE: 2015-08-24 22:21:26.436754
+#+PROPERTY: ID KR2a0029
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六十二
 <pb:KR2a0029_WYG_125-1a>¶
 欽定四庫全書¶
 　舊五代史巻六十二¶
@@ -164,4 +166,3 @@
 (成列廷隠整陣與知/祥合擊之璋軍大敗)先是前陵州刺史王暉為璋所邀¶
 寓于東川至是因璋之敗率衆以害之𫝊其首于西川¶
 　舊五代史巻六十二¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 舊五代史
-#+DATE: 2015-09-23 09:42:02
-#+PROPERTY: JUAN 40
+#+DATE: 2015-08-24 22:21:24.954562
+#+PROPERTY: ID KR2a0029
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十九攷證
 <pb:KR2a0029_WYG_040-1a>¶
 　舊五代史巻十九攷證¶
 列傳九氏叔琮傳太祖伐襄陽叔琮失利　案舊唐書¶
@@ -38,4 +40,3 @@
 　¶
 　¶
 　舊五代史卷十九攷證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 舊五代史
-#+DATE: 2015-09-23 09:42:02
-#+PROPERTY: JUAN 50
+#+DATE: 2015-08-24 22:21:25.107142
+#+PROPERTY: ID KR2a0029
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十四攷證
 <pb:KR2a0029_WYG_050-1a>¶
 　舊五代史巻二十四攷證¶
 梁書列傳十四李珽傳河南有外黄小黄　小黄歐陽¶
@@ -38,4 +40,3 @@
 　¶
 　¶
 　舊五代史巻二十四攷證¶
-

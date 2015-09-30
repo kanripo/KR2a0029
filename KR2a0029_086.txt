@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 舊五代史
-#+DATE: 2015-09-23 09:42:02
-#+PROPERTY: JUAN 86
+#+DATE: 2015-08-24 22:21:25.732684
+#+PROPERTY: ID KR2a0029
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十二攷證
 <pb:KR2a0029_WYG_086-1a>¶
 　舊五代史巻四十二攷證¶
 唐明宗紀八壬申契丹東丹托雲自渤國國率衆到闕¶
@@ -38,4 +40,3 @@
 　¶
 　¶
 　舊五代史巻四十二攷證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 舊五代史
-#+DATE: 2015-09-23 09:42:02
-#+PROPERTY: JUAN 181
+#+DATE: 2015-08-24 22:21:27.535641
+#+PROPERTY: ID KR2a0029
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九十攷證
 <pb:KR2a0029_WYG_181-1a>¶
 　舊五代史巻九十攷證¶
 晉列傳五趙在禮傳推指揮使楊晸為帥　楊晸歐陽¶
@@ -38,4 +40,3 @@
 　¶
 　¶
 　舊五代史卷九十攷證¶
-

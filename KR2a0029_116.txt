@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 舊五代史
-#+DATE: 2015-09-23 09:42:02
-#+PROPERTY: JUAN 116
+#+DATE: 2015-08-24 22:21:26.249544
+#+PROPERTY: ID KR2a0029
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十七攷證
 <pb:KR2a0029_WYG_116-1a>¶
 　舊五代史巻五十七攷證¶
 唐列𫝊九郭崇韜𫝊如三四日間　案歐陽史作十日¶
@@ -20,4 +22,3 @@
 　¶
 　¶
 　舊五代史巻五十七攷證¶
-

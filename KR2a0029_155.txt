@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 舊五代史
-#+DATE: 2015-09-23 09:42:02
-#+PROPERTY: JUAN 155
+#+DATE: 2015-08-24 22:21:27.026217
+#+PROPERTY: ID KR2a0029
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十七攷證
 <pb:KR2a0029_WYG_155-1a>¶
 　舊五代史巻七十七攷證¶
 晉書高祖紀三八月戊寅以左僕射劉煦為契丹丹禮¶
@@ -38,4 +40,3 @@
 　¶
 　¶
 　舊五代史巻七十七攷證¶
-

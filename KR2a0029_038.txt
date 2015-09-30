@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 舊五代史
-#+DATE: 2015-09-23 09:42:02
-#+PROPERTY: JUAN 38
+#+DATE: 2015-08-24 22:21:24.912595
+#+PROPERTY: ID KR2a0029
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十八攷證
 <pb:KR2a0029_WYG_038-1a>¶
 　舊五代史巻十八攷證¶
 梁列傳八張文蔚傳父裼　裼原本作錫今据舊唐書¶
@@ -56,4 +58,3 @@
 　¶
 　¶
 　舊五代史巻十八考證¶
-

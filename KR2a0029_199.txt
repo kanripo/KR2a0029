@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 舊五代史
-#+DATE: 2015-09-23 09:42:02
-#+PROPERTY: JUAN 199
+#+DATE: 2015-08-24 22:21:27.922466
+#+PROPERTY: ID KR2a0029
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九十九攷證
 <pb:KR2a0029_WYG_199-1a>¶
 　舊五代史巻九十九攷證¶
 漢髙祖紀一帝大破偉王于忻口　案漢祖破偉王是¶
@@ -20,4 +22,3 @@
 　從是書作丙子¶
 朗鄂舊作朗五今改¶
 　舊五代史巻九十九攷證¶
-

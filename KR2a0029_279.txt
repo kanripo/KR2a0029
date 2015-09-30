@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 舊五代史
-#+DATE: 2015-09-23 09:42:02
-#+PROPERTY: JUAN 279
+#+DATE: 2015-08-24 22:21:29.970887
+#+PROPERTY: ID KR2a0029
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百四十一
 <pb:KR2a0029_WYG_279-1a>¶
 欽定四庫全書¶
 　舊五代史巻一百四十一¶
@@ -200,4 +202,3 @@
 　¶
 　¶
 　舊五代史巻一百四十一¶
-

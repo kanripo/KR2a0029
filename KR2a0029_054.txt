@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 舊五代史
-#+DATE: 2015-09-23 09:42:02
-#+PROPERTY: JUAN 54
+#+DATE: 2015-08-24 22:21:25.174961
+#+PROPERTY: ID KR2a0029
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十六攷證
 <pb:KR2a0029_WYG_054-1a>¶
 　舊五代史巻二十六攷證¶
 唐書武皇紀下景福元年正月鎮州王鎔恃燕人之援¶
@@ -74,4 +76,3 @@
 　¶
 　¶
 　舊五代史巻二十六考證¶
-

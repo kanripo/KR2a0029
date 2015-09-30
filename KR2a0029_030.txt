@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 舊五代史
-#+DATE: 2015-09-23 09:42:02
-#+PROPERTY: JUAN 30
+#+DATE: 2015-08-24 22:21:24.778533
+#+PROPERTY: ID KR2a0029
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十四攷證
 <pb:KR2a0029_WYG_030-1a>¶
 　舊五代史巻十四攷證¶
 梁列𫝊四羅紹威𫝊其後𢎞信封臨清王　案舊唐書¶
@@ -38,4 +40,3 @@
 王珂𫝊小字忠兒　忠兒舊唐書作蟲兒¶
 令何絪守晉州　何絪原本作何緯今據通鑑改正¶
 　舊五代史巻十四攷證¶
-
